@@ -4,10 +4,10 @@ Magento2.1.X_AddCompanyColumnToSalesOrderGrid
 You can see the company column on sales order grid at backend page like this 
 
 Default loading page 
-https://github.com/meezin/Magento2.1.X_AddCompanyColumnToSalesOrderGrid/blob/master/readme/2.png
+https://github.com/meezin/Magento2.1.X_AddCompanyColumnToSalesOrderGrid/blob/master/readme/3.png
 
 After clicking the filter
-https://github.com/meezin/Magento2.1.X_AddCompanyColumnToSalesOrderGrid/blob/master/readme/3.png
+https://github.com/meezin/Magento2.1.X_AddCompanyColumnToSalesOrderGrid/blob/master/readme/2.png
 
 - BUG FIX 
 
