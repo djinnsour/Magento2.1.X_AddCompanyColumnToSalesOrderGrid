@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+<!-- 20171108 fix: below filter bar -->
+    <listingToolbar name="listing_top"/>
+<!-- 20171108 fix: below filter bar -->    
     <columns name="sales_order_columns">
-
         <!-- sales_order_address company -->
         <column name="company">
             <argument name="data" xsi:type="array">
